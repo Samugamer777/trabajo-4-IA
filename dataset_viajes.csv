@@ -1,0 +1,41 @@
+hora,dia_semana,origen,destino,pasajeros,tiempo_real,estado
+7,Lunes,Cable Aereo,Universidad,120,25,Demorado
+8,Lunes,Fundadores,Palermo,95,8,Normal
+12,Martes,Centro,La Enea,60,15,Rapido
+17,Miercoles,Universidad,Cable Aereo,140,30,Demorado
+6,Jueves,Chipre,Millan,30,7,Rapido
+18,Viernes,Palermo,Centro,160,12,Demorado
+9,Sabado,La Enea,Palogrande,45,14,Normal
+10,Domingo,San Jose,Fundadores,25,9,Rapido
+7,Lunes,Centro,Palermo,130,10,Demorado
+8,Martes,Cable Aereo,Chipre,88,13,Normal
+13,Miercoles,Millan,Palogrande,50,12,Normal
+17,Jueves,Universidad,Centro,145,22,Demorado
+6,Viernes,Fundadores,San Jose,28,7,Rapido
+19,Sabado,Palermo,La Enea,75,18,Normal
+11,Domingo,Chipre,Cable Aereo,20,13,Rapido
+7,Lunes,La Enea,Universidad,135,20,Demorado
+8,Martes,Palogrande,Palermo,90,11,Normal
+14,Miercoles,San Jose,Centro,55,10,Rapido
+18,Jueves,Cable Aereo,La Enea,150,28,Demorado
+6,Viernes,Universidad,Fundadores,35,18,Rapido
+20,Sabado,Centro,Chipre,65,15,Normal
+9,Domingo,Millan,Cable Aereo,18,12,Rapido
+7,Lunes,Fundadores,Universidad,125,20,Demorado
+8,Miercoles,Palermo,San Jose,80,9,Normal
+15,Viernes,La Enea,Centro,48,14,Normal
+17,Lunes,Chipre,Palogrande,138,19,Demorado
+6,Martes,San Jose,Millan,22,10,Rapido
+19,Jueves,Universidad,Palermo,160,25,Demorado
+10,Sabado,Cable Aereo,Fundadores,40,6,Rapido
+13,Domingo,Centro,San Jose,30,10,Rapido
+7,Lunes,Palogrande,La Enea,118,20,Demorado
+8,Martes,Millan,Chipre,85,10,Normal
+16,Miercoles,Fundadores,Centro,70,5,Normal
+18,Viernes,La Enea,Palermo,155,22,Demorado
+6,Sabado,Palermo,Palogrande,28,12,Rapido
+11,Domingo,Universidad,San Jose,22,20,Rapido
+7,Lunes,Cable Aereo,Centro,122,18,Demorado
+9,Martes,San Jose,La Enea,75,16,Normal
+14,Jueves,Chipre,Fundadores,52,12,Normal
+17,Viernes,Centro,Universidad,148,22,Demorado
